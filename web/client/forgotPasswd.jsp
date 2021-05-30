@@ -47,10 +47,10 @@
                     session.setAttribute("otp",pin);
                     session.setAttribute("email", email1);
                     String host = "smtp.gmail.com";
-                    String user = "shraddhachaudhari810@gmail.com";
-                    String pass = "sharu5913";
+                    String user = "user@gmail.com";
+                    String pass = "pass";
                     String to = email1;
-                    String from = "shraddhachaudhari810@gmail.com";
+                    String from = "email-from@gmail.com";
                     String subject = "This is OTP for setting new password. ";
                     String messageText = ("OTP" + "" + pin);
                     boolean sessionDebug = false;
