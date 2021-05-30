@@ -1,0 +1,24 @@
+SMAP
+viewComplaints_jsp.java
+JSP
+*S JSP
+*F
++ 0 viewComplaints.jsp
+admin/viewComplaints.jsp
+*L
+5,23:51
+28,10:75
+37,3:85
+39,4:88
+42,4:92
+46:96,3
+47:99
+48,24:101
+71:125
+72,10:126,3
+82:156,5
+83:161,3
+84,3:164
+87,8:168
+94,12:176
+*E
