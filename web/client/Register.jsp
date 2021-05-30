@@ -75,7 +75,7 @@
             String user = "email";
             String pass = "pass";
             String to = email1;
-            String from = "shraddhachaudhari810@gmail.com";
+            String from = "email-from";
             String subject = "This is confirmation mail for your citizen account. ";
             String messageText = ("Please insert this number to activate your account:"+pin);
             boolean sessionDebug = false;
