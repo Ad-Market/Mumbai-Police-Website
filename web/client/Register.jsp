@@ -72,8 +72,8 @@
            String a=(String)session.getAttribute("auth");
            System.out.println(a);
             String host = "smtp.gmail.com";
-            String user = "shraddhachaudhari810@gmail.com";
-            String pass = "sharu5913";
+            String user = "email";
+            String pass = "pass";
             String to = email1;
             String from = "shraddhachaudhari810@gmail.com";
             String subject = "This is confirmation mail for your citizen account. ";
