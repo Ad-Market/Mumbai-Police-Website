@@ -47,10 +47,10 @@
                     String pin = (randomPIN + "");
                     session.setAttribute("otp", pin);
                     String host = "smtp.gmail.com";
-                    String user = "shraddhachaudhari810@gmail.com";
-                    String pass = "sharu5913";
+                    String user = "user";
+                    String pass = "pass";
                     String to = email;
-                    String from = "shraddhachaudhari810@gmail.com";
+                    String from = "email-from";
                     String subject = "This is  mail for your OTP. ";
                     String messageText = ("Your OTP is: " + randomPIN);
                     boolean sessionDebug = false;
